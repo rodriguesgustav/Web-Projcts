@@ -1,2 +1,2 @@
-# Faculdade.C
-Exercícios da faculdade, geralmente em linguagem C.
+# webprojects
+Repositorio de armazenamento dos meus projetos web. 
